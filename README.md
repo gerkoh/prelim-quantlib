@@ -1,0 +1,1 @@
+Posting incremental updates for my personal quant projects. Currently contains examples of data sources.
